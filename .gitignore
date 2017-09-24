@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+/public/images
+ - /public/images/*
+ - /public/images/hiv_info/*
+ - /public/images/*.jpg
+ - /public/images/*.png
+/.idea
